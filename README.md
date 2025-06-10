@@ -92,3 +92,9 @@
    ![image](https://github.com/user-attachments/assets/0d8577b8-4e8e-4854-9ff3-87939d83f894)
 
 3. (Optional Cleanup) Delete the feature/data-visualization branch.
+   * Delete local branch
+     ![image](https://github.com/user-attachments/assets/60e1e75d-787d-4dfc-988d-e48417bf94a6)
+
+   * Delete branch in Github
+     ![image](https://github.com/user-attachments/assets/f041cac1-f3ce-4e3c-b83d-fa2a26255478)
+
