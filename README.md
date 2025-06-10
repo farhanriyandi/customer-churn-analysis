@@ -83,5 +83,12 @@
    ![image](https://github.com/user-attachments/assets/0bb86073-21f5-42b1-ae3d-61d2f3e262e5)
    ![image](https://github.com/user-attachments/assets/14106f02-62d6-429e-adab-6195eed1d2f1)
 
+## Task 4: Merging the Feature
+1. Switch back to the main branch.
+   ![image](https://github.com/user-attachments/assets/6b6941b8-90e0-4b58-b77e-3ad4c1acf419)
 
+2. Merge the feature/data-visualization branch into main.
+   ![image](https://github.com/user-attachments/assets/cf1a3b0c-2387-4a38-a3d4-b8a73e6c7a96)
+   ![image](https://github.com/user-attachments/assets/0d8577b8-4e8e-4854-9ff3-87939d83f894)
 
+3. (Optional Cleanup) Delete the feature/data-visualization branch.
